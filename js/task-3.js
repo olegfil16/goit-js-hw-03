@@ -4,7 +4,7 @@ function filterArray(numbers, value) {
       if (numbers[i] > value) {
           result.push(numbers[i]);
       }
-  }и
+  }
   return result;
 }
 
